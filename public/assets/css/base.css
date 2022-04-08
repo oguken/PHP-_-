@@ -33,3 +33,17 @@ body {
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+/* お問い合わせ部分 */
+.contact_box {
+	margin:30px;
+}
+
+.error {
+	color:red;
+}
+
+textarea {
+	height:150px;
+	width: 450px;
+}
